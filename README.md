@@ -2,7 +2,7 @@
 ### By Fahad Bakoor
 
 ## Dataset
-the data set I am using today is for February 2019, which covers info about trips taken by service members, their types, age, gender, stations of starting and ending trips, duration of trips, etc.
+the data set I am analyzing is for February 2019, which covers info about trips taken by service members, their types, age, gender, stations of starting and ending trips, duration of trips, etc.
 #### columns:
 - Trip Duration (seconds).
 - Start Time and Date.
