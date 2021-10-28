@@ -38,8 +38,6 @@ the data set I am analyzing is for February 2019, which covers info about trips 
 - duration of trips get shorter the older the rider
 - There are more male riders than female 
 - Men tend to take longer trips on average than women 
-- customers trips are much longer on average compared to Subscribers,
-- males trips are longer on average compared to female trips 
 - rides on Sunday and Saturday on average, have the longest trip duration 
 - rides at 2 AM and 3 AM on average have the longest trip duration
 
